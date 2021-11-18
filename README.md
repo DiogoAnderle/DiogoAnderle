@@ -1,6 +1,6 @@
 ### Olá eu sou o Diogo Anderle
 
-- 🔭 Hoje trabalho com suporte ao usuário do sistema da empresa onde trabalho Aberta Sistemas.
+- 🔭 Trabalho com suporte ao usuário do sistema desenvolvido pela empresa onde trabalho Aberta Sistemas.
 - 🌱 Estudando: Análise e Desenvolvimento de Sistemas, HTML CSS3 e JS
 - 🤔 Procuro ajuda / dicas sobre desenvolvimento
 - 📫 Contato via e-mail: anderle88@gmail.com 
