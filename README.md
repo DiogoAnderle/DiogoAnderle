@@ -4,7 +4,6 @@
 - 🌱 Estudando: Análise e Desenvolvimento de Sistemas, HTML CSS3 e JS
 - 🤔 Procuro ajuda / dicas sobre desenvolvimento
 - 📫 Contato via e-mail: anderle88@gmail.com 
-- 😄 Pronouns: ele / dele
 - ⚡ Fato Engraçado: Pai de 2 princesas, fã de games e animes.
 
 <div align="center">
