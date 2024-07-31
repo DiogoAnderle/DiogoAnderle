@@ -1,7 +1,8 @@
 ### Olá eu sou o Diogo Anderle
 
 - 🔭 Trabalho com suporte ao usuário do sistema desenvolvido pela empresa onde trabalho Aberta Sistemas.
-- 🌱 Estudando: Análise e Desenvolvimento de Sistemas, HTML CSS3 e JS
+- 🌱 Formado em: Análise e Desenvolvimento de Sistemas
+- ⚛ Se especializando em React e NodeJs
 - 🤔 Procuro ajuda / dicas sobre desenvolvimento
 - 📫 Contato via e-mail: anderle88@gmail.com 
 - ⚡ Fato Engraçado: Pai de 2 princesas, fã de games e animes.
