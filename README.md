@@ -6,7 +6,7 @@
 - 🤔 Procuro ajuda / dicas sobre desenvolvimento
 - 📧 Contato via e-mail: <a href="mailto:anderle88@gmail.com?subject=Contato vindo do Github">anderle88@gmail.com</a>
 - 🔗 <a href="https://www.linkedin.com/in/diogo-anderle-04905b18a/" target="_blank">LinkedIn</a>
-- ⚡ Pai de 2 princesas, fã de games e animes.
+- ⚡ Pai de 2 princesas, fã de games.
 
 <div align="center">
   <a href="https://github.com/DiogoAnderle">
